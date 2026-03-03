@@ -11,7 +11,7 @@
 Beijing, China \n
 \n
 Email: lizr20@mails.tsinghua.edu.cn \n
-\[[https://scholar.google.com.hk/citations?user=j948XtQAAAAJ&hl=zh-CN Google Scholar]\]\[[pubs/CV_Li_2025.pdf Curriculem Vitae]\] \n
+\[[https://scholar.google.com.hk/citations?user=j948XtQAAAAJ&hl=zh-CN Google Scholar]\]\[[pubs/CV_Li_2026-03.pdf Curriculem Vitae]\] \n
 ~~~
 
 
@@ -32,9 +32,9 @@ I am currently a final-year Ph.D. student in the [http://iiis.tsinghua.edu.cn/  
 
 I received my B.E. in 2020 at [http://www.tsinghua.edu.cn/ Tsinghua University], major in [https://www.ee.tsinghua.edu.cn/ Electronic Engineering] and second major in [https://www.sem.tsinghua.edu.cn/ Economics and Finance].
 
-My research focuses on Reinforcement Learning (Theory, Algorithm and Application), Generative AI (especially Diffusion Models and Large Language Models) and Network Optimization.
+My research focuses on Reinforcement Learning (Theory, Algorithm and Application), Generative AI (Diffusion Models, Flow Models and Large Language Models) and Network Optimization.
 
-#I am constantly seeking potential opportunities in both academia and industry, such as a position as a Postdoctoral Researcher or a Research Scientist. Welcome to contact me!
+I am constantly seeking potential opportunities in both academia and industry, such as a position as a Postdoctoral Researcher or a Research Scientist. Welcome to contact me!
 
 #~~~
 #I am constantly seeking potential opportunities in both academia and industry, such as a position as a Postdoctoral Researcher or a Research Scientist. Welcome to contact me!
@@ -50,14 +50,15 @@ My research focuses on Reinforcement Learning (Theory, Algorithm and Application
 - B.S. in the School of Economics and Management (Second Major), Tsinghua University, Aug. 2017 - Jul. 2020
 
 == Research Interests 
-- Deep Reinforcement Learning (MARL, Offline RL) 
+- Deep Reinforcement Learning (MARL, Offline RL, Generative RL) 
 - Generative Models (Diffusion Models, Flow Models)
-- Large Language Models (RLHF, LLM Reasoning, Agents).
+- Large Language Models (RLHF, Post-Training, LLM Reasoning, Agents, Generative Models Post-training).
 - Theory including Optimization theory, Reinforcement Learning theory, and Distributed Optimization.
 - Network Optimization.
 
 ~~~
 == Recent News 
+- \[2026.02\] Paper "OM{{<sup>2</sup>}}P: Offline Multi-Agent Mean-Flow Policy" accepted to AAMAS 2026!
 - \[2025.07\] Paper "Beyond Static Populations: Efficient Delay-Constrained Scheduling for Dynamic Users via Deep Reinforcement Learning" accepted to MobiHoc 2025!
 - \[2025.01\] Paper "Beyond Squared Error: Exploring Loss Design for Enhanced Training of Generative Flow Networks" accepted to ICLR 2025 Spotlight!
 - \[2024.12\] Paper "Offline-to-Online Multi-Agent Reinforcement Learning with Offline Value Function Memory and Sequential Exploration" accepted to AAMAS 2025!
