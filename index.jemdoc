@@ -42,8 +42,6 @@ I am constantly seeking potential opportunities in both academia and industry, s
 
 
 
-#I'm currently working at [https://www.amazon.com/ Amazon] as an Applied Scientist. I got my Ph.D. in Computer Science at Louisiana State University, under the guidance of Dr. [http://csc.lsu.edu/~msun/ Mingxuan Sun]. My research focuses on developing computationally efficient machine learning as well as deep learning models and algorithms, with applications in recommender systems, time-series analysis, computer vision, computer graphics, natural language processing, and fairness.
-
 == Education 
 - Ph.D. Student in the Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, Aug. 2020 - Now
 - B.S. in the Department of Electronic Engineering, Tsinghua University, Aug. 2016 - Jul. 2020
@@ -58,6 +56,8 @@ I am constantly seeking potential opportunities in both academia and industry, s
 
 ~~~
 == Recent News 
+- \[2026.05\] Five papers accepted to ICML 2026!
+- \[2026.04\] "Offline Diffusion Policy for Multi-User Delay-Constrained Scheduling" accepted to IEEE Transactions on Mobile Computing (*TMC*)!
 - \[2026.02\] Paper "OM{{<sup>2</sup>}}P: Offline Multi-Agent Mean-Flow Policy" accepted to AAMAS 2026!
 - \[2025.07\] Paper "Beyond Static Populations: Efficient Delay-Constrained Scheduling for Dynamic Users via Deep Reinforcement Learning" accepted to MobiHoc 2025!
 - \[2025.01\] Paper "Beyond Squared Error: Exploring Loss Design for Enhanced Training of Generative Flow Networks" accepted to ICLR 2025 Spotlight!
