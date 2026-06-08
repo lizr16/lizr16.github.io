@@ -21,11 +21,11 @@ You can also find my articles on my [https://scholar.google.com.hk/citations?use
 . Qingsong Liu, *Zhuoran Li*, and Zhixuan Fang, ‘‘Online Convex Optimization with Switching Costs: Algorithms and Performance,’’ Proceedings of the 20th International Symposium on Modeling and Optimization in Mobile, Ad Hoc and Wireless Networks (+WiOpt+), September 2022.
 
 == Journal Papers
+. *Zhuoran Li*, Ling Pan, Jiatai Huang, Longbo Huang, ‘‘Improving Generalization and Data Efficiency with Diffusion in Offline Multi-agent RL,’’ Transactions on Machine Learning Research (+TMLR+), to appear. \n
 . *Zhuoran Li*, Ruishuo Chen, Hai Zhong, Longbo Huang, ‘‘Offline Critic-Guided Diffusion Policy for Multi-User Delay-Constrained Scheduling,’’ IEEE Transactions on Mobile Computing (+TMC+), to appear. \n
 . Qingsong Liu, *Zhuoran Li*, and Zhixuan Fang, ‘‘Smoothed Online Decision Making in Communication: Algorithms and Applications,’’ IEEE/ACM Transactions on Networking (+TON+), vol. 33, no. 2, pp. 463-478, April 2025. \n
 . *Zhuoran Li*, Xing Wang, Ling Pan, Lin Zhu, Zhendong Wang, Junlan Feng, Chao Deng, Longbo Huang, ‘‘Network Topology Optimization via Deep Reinforcement Learning,’’ IEEE Transactions on Communications (+TCOM+), vol. 71, issue 5, pp. 2847 - 2859, February 2023. \n
 
 == Working Papers
-. *Zhuoran Li*, Ling Pan, Longbo Huang.  Beyond Conservatism: Diffusion Policies in Offline Multi-agent Reinforcement Learning. arXiv preprint arXiv:2307.01472, 2023. \n
 . Xun Wang{{<sup>†</sup>}}, *Zhuoran Li*{{<sup>†</sup>}}, Hai Zhong, Longbo Huang. Few is More: Task-Efficient Skill-Discovery for Multi-Task Offline Multi-Agent Reinforcement Learning. arXiv preprint arXiv:2502.08985, 2025. \n
 . Xun Wang, *Zhuoran Li*, Yanshan Lin, Hai Zhong, Longbo Huang. From Solo to Symphony: Orchestrating Multi-Agent Collaboration with Single-Agent Demos. arXiv preprint arXiv:2511.02762, 2025. \n
